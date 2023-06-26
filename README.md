@@ -1,4 +1,4 @@
-# disaster-recovery-and-business-continuity-plan---University-Project
+# Disaster-Recovery-and-Business-Continuity-Plan---University-Project
 The project to be developed, as a group, should be about a recovery plan for
 disaster / business continuity, consisting of two parts:
 A report including what is described below.
